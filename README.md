@@ -2,6 +2,12 @@
 
 Volg aandelen en koersen op een overzichtelijk dashboard.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveBeurs](https://dravenlock.nl/video/DraveBeurs.jpg)](https://dravenlock.nl/video/DraveBeurs.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveBeurs.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Tools en kantoor · versie 1.0.1*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
